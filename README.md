@@ -4,11 +4,16 @@ This project implements a simple linear regression-based trading strategy to pre
 
 # Overview:
 
-# Asset: NVIDIA (Ticker: NVDA)
-# Model: Linear Regression using scikit-learn
-# Objective: Predict next-day log returns
-# Features: Lagged returns (e.g., previous day's return)
-# Data Source: Yahoo Finance (via yfinance Python library)
+# Asset: 
+NVIDIA (Ticker: NVDA)
+# Model: 
+Linear Regression using scikit-learn
+# Objective: 
+Predict next-day log returns
+# Features:
+Lagged returns (e.g., previous day's return)
+# Data Source: 
+Yahoo Finance (via yfinance Python library)
 
 # Workflow:
 
